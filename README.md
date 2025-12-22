@@ -1,4 +1,4 @@
-![GitHub Profile Banner](https://junheng.dev/hand.jpg)
+![GitHub Profile Banner](https://github.com/JzJoker/Justin-Zhao/blob/main/hike.jpg)
 
 # Hello, i'm Justin Zhao
 
