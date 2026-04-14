@@ -1,6 +1,6 @@
 ![GitHub Profile Banner](https://github.com/JzJoker/JzJoker/blob/main/hike.jpg)
 
-# Hello, i'm Justin Zhao
+# Hello, I'm Justin Zhao
 
 Currently building AI-powered web apps with **React & Next.js on AWS** serverless infrastructure. Previously @ **The Vanguard Group**; Contributed to site reliability initiatives and preemptive environment testing to improve system stability. Checkout my projects [here](https://www.justinzhao.dev/projects/).
 
